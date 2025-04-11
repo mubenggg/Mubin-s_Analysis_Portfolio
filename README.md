@@ -1,13 +1,55 @@
-# mubin-s_portfolio
+## mubin-s_portfolio
+
 Analytics Portfolio
+
+# Project 1 : Product Manager Performance Dashboard
+
+## 🧠 Project Background
+
+Pasadana, a financial recovery and debt collection agency, oversees a large portfolio of non-performing loan (NPL) accounts from various financial institutions. Under the supervision of Product Manager Nizam, this project aims to evaluate the collection performance and recovery potential of a group of 12,640 accounts totaling RM241.31 million in outstanding debt.
+
+The company manages multiple product types—such as RHB CCFP NORMAL, RHB HP, RHB ASB, and RHB Mortgage (HL)—each contributing differently to overall performance. The dashboard is designed to provide visibility into key collection indicators such as current collection, paying accounts, forecasted recoveries (PTP), and closure performance, all while tracking CRO-level and product-level contribution trends.
+
+This project synthesizes real-time collection data and historical performance to improve decision-making, resource allocation, and strategy formulation in pursuit of higher recovery rates and operational efficiency.
+
+Key Insights and Evaluation Areas:
+- Collection Performance Analysis: Assessment of current collection figures, paying account trends, and comparisons against previous periods to identify performance drops or improvements.
+- Product-Level Contributions: Evaluation of collection efficiency across different loan product groups and their impact on the total recovery rate.
+- Collector Performance Benchmarking: Analysis of individual CRO performance to identify top performers and areas for coaching or intervention.
+- Forecast vs. Reality (PTP Monitoring): Tracking of payment promises and collection forecasts against actual results to gauge prediction accuracy.
+- Portfolio Closure Insights: Examination of the number of closed accounts and their relation to collection efforts over time.
+
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
+
+## 💼 Executive Summary
+
+### Overview of Findings
+
+As of the latest reporting date, the collection performance under Product Manager Nizam has shown a significant downturn compared to the previous month. Key performance indicators reflect notable declines in several core areas: Current Collection is down by 44.66%, Paying Accounts have decreased by 34.47%, and Collection Forecast (PTP) has dropped by 31.26%. Additionally, the Closing Value has dropped by over 47.20% compared to two months prior, indicating a considerable slowdown in account resolutions.
+
+Despite the downturn, performance insights at the product and collector level reveal opportunities for recovery. The RHB Mortgage (HL) product demonstrated the highest improvement in performance relative to last month, and Collector B.HAIKALL emerged as the most improved collector with a 106.51% increase in collections. These standout performances suggest that focused strategies and individual contributions can help offset broader performance challenges.
+
+The following analysis explores the contributing factors behind these trends, highlights the most and least performing segments, and identifies actionable recommendations for improving recovery outcomes.
+
+Key Performance Indicators (as of report date):
+- Total Accounts Monitored (NOA): 12,640
+- Total Outstanding Value (TOS): RM241.31M
+- Current Collection: RM72.38K ▼ 44.66%
+- Paying Accounts: 211 ▼ 34.47%
+- Collection Forecast (PTP): RM231.56K
+- Closing (Last Month): RM396.07K ▼ 41.54%
+- Closing (Last 2 Months): RM438.53K ▼ 47.20%
+
+![image](https://github.com/user-attachments/assets/66e7c1e3-cfb0-42ea-8646-2942a7dfdc53)
+
+
+# Project 2 : Company Collection Overview
 
 ## 🧠 Project Background
 
 As the sole data analyst at Pasadana SDN BHD, a company focused on debt recovery and customer service, I was tasked with designing a centralized and interactive dashboard to monitor and evaluate collection performance over multiple years. Our operations span across various sectors such as Banking, Education, Telco, Corporate, and Consumer.
 
 The primary goal was to give upper management and operations teams a clear, real-time snapshot of total collections, sector-wise contributions, product performance, and collection trends to aid strategic decisions and improve client servicing.
-
-
 
 ### Key Features
 
