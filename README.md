@@ -25,6 +25,8 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 
 ### Overview of Findings
 
+![image](https://github.com/user-attachments/assets/66e7c1e3-cfb0-42ea-8646-2942a7dfdc53)
+
 As of the latest reporting date, the collection performance under Product Manager Nizam has shown a significant downturn compared to the previous month. Key performance indicators reflect notable declines in several core areas: Current Collection is down by 44.66%, Paying Accounts have decreased by 34.47%, and Collection Forecast (PTP) has dropped by 31.26%. Additionally, the Closing Value has dropped by over 47.20% compared to two months prior, indicating a considerable slowdown in account resolutions.
 
 Despite the downturn, performance insights at the product and collector level reveal opportunities for recovery. The RHB Mortgage (HL) product demonstrated the highest improvement in performance relative to last month, and Collector B.HAIKALL emerged as the most improved collector with a 106.51% increase in collections. These standout performances suggest that focused strategies and individual contributions can help offset broader performance challenges.
@@ -40,7 +42,7 @@ Key Performance Indicators (as of report date):
 - Closing (Last Month): RM396.07K ▼ 41.54%
 - Closing (Last 2 Months): RM438.53K ▼ 47.20%
 
-![image](https://github.com/user-attachments/assets/66e7c1e3-cfb0-42ea-8646-2942a7dfdc53)
+
 
 
 # Project 2 : Company Collection Overview
