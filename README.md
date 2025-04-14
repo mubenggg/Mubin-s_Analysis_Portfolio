@@ -85,3 +85,42 @@ The following insights have been derived from the interactive Power BI dashboard
 This dashboard provides a foundational tool for operational planning, performance review, and executive decision-making, helping teams to identify both peak performance periods and underperforming segments.
 
 
+# Project 3 : NPL Product Monitoring
+
+## 🧠 Project Background
+
+This project focuses on the development of an Excel-based monitoring system for AEON's Non-Performing Loan (NPL) accounts, integrated with Power BI visualizations to provide actionable insights for internal recovery teams.
+
+As part of a debt recovery initiative, AEON outsourced a portfolio of NPL accounts, which were grouped into batches and categorized by delinquency months (D3 to D6). The objective was to recover a targeted percentage of the principal amount, with particular attention to daily collections, payment behavior, and collector performance.
+
+To support this effort, the project involves:
+
+*Organizing NPL accounts into 4 principal-based risk groups (Low, Medium, High).
+*Tracking key performance indicators (KPIs) such as:
+  -Total number of accounts (NOA)
+  -Amount collected
+  -Paid vs unpaid accounts
+  -Pushback and short-paid accounts
+  -Conversion rates (CTC & Payment)
+*Monitoring progress against recovery targets set for each group.
+*Identifying accounts that fall short of expectations and require follow-up actions.
+
+The end product includes a dynamic dashboard built in Power BI and structured reports for management to track recovery rates and optimize team strategies.
+
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here**]()
+
+## 💼 Executive Summary
+
+[AEON NPL.pdf](https://github.com/user-attachments/files/19731837/AEON.NPL.pdf)
+
+### Overview of Findings
+
+The analysis of AEON's NPL accounts across multiple delinquency stages (D3 to D6) revealed a clear trend: the older the delinquency stage, the lower the recovery performance.
+
+Early-stage accounts (D3) showed the highest payment conversion and recovery rates, contributing the most towards the principal recovery target. As accounts aged into D4, D5, and D6, payment activity declined significantly, despite consistently high contact-to-conversion (CTC) rates. This indicates that while collectors were able to reach debtors, converting engagement into actual payments became increasingly difficult.
+
+Additionally, a noticeable portion of accounts fell into the “Low principal” group (< RM3,000), which were more likely to generate smaller payments or short-paid outcomes. Pushbacks and short-paid cases increased in later stages, highlighting challenges in debtor cooperation or financial capacity.
+
+In summary, the findings highlight the critical importance of early intervention. Timely and targeted follow-ups, especially in D3 and D4, can greatly improve collection effectiveness and reduce resource strain on harder-to-recover D5 and D6 accounts.
+
+
