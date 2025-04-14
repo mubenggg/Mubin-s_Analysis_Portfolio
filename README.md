@@ -23,9 +23,9 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 
 ## 💼 Executive Summary
 
-### Overview of Findings
-
 ![image](https://github.com/user-attachments/assets/66e7c1e3-cfb0-42ea-8646-2942a7dfdc53)
+
+### Overview of Findings
 
 As of the latest reporting date, the collection performance under Product Manager Nizam has shown a significant downturn compared to the previous month. Key performance indicators reflect notable declines in several core areas: Current Collection is down by 44.66%, Paying Accounts have decreased by 34.47%, and Collection Forecast (PTP) has dropped by 31.26%. Additionally, the Closing Value has dropped by over 47.20% compared to two months prior, indicating a considerable slowdown in account resolutions.
 
@@ -60,8 +60,12 @@ The primary goal was to give upper management and operations teams a clear, real
 - Easy identification of collection peaks and dips throughout the months.
 - Supports strategic planning, performance benchmarking, and operational improvements.
 
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here**](https://github.com/mubenggg/Company-YTD-Collection/blob/main/Report%20YTD%20Collection.sql).
+
 
 ## 💼 Executive Summary
+
+![image](https://github.com/user-attachments/assets/9c3f1183-1c01-498d-bf49-6eee57a912dc)
 
 ### Overview of Findings
 Between January 2023 and March 2025, the company’s monthly collections demonstrated varied performance across key sectors, including Banking, Education, Telco, and Others. Following a period of steady decline in mid-2023, there was a notable surge in collection performance in Q2 and Q3 of 2024, peaking in August 2024 with RM9.3M in total collections — the highest in the period analyzed.
@@ -80,4 +84,4 @@ The following insights have been derived from the interactive Power BI dashboard
 
 This dashboard provides a foundational tool for operational planning, performance review, and executive decision-making, helping teams to identify both peak performance periods and underperforming segments.
 
-![image](https://github.com/user-attachments/assets/9c3f1183-1c01-498d-bf49-6eee57a912dc)
+
