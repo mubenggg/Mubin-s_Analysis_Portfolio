@@ -107,11 +107,12 @@ To support this effort, the project involves:
 
 The end product includes a dynamic dashboard built in Power BI and structured reports for management to track recovery rates and optimize team strategies.
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here**]()
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here**](https://github.com/mubenggg/AEON-NPL-Monitoring/blob/main/AEON%20NPL.sql)
 
 ## 💼 Executive Summary
 
-[AEON NPL.pdf](https://github.com/user-attachments/files/19731837/AEON.NPL.pdf)
+![AEON NPL](https://github.com/user-attachments/assets/5ed2c754-ebda-4d60-86fa-bc9e573f1969)
+
 
 ### Overview of Findings
 
