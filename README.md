@@ -19,7 +19,7 @@ Key Insights and Evaluation Areas:
 - Forecast vs. Reality (PTP Monitoring): Tracking of payment promises and collection forecasts against actual results to gauge prediction accuracy.
 - Portfolio Closure Insights: Examination of the number of closed accounts and their relation to collection efforts over time.
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here**](https://github.com/mubenggg/PM-Dashboard/blob/main/PM%20DASHBOARD%20(Completed).sql).
 
 ## 💼 Executive Summary
 
