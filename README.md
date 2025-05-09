@@ -1,4 +1,4 @@
-## mubin-s_portfolio
+## Mubin's Analysis Portfolio
 
 Welcome! I'm glad you're here.  
 This section showcases a collection of my data analysis projects — from SQL queries and Power BI dashboards to Excel automation tools.  
