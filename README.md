@@ -1,6 +1,9 @@
 ## mubin-s_portfolio
 
-Analytics Portfolio
+Welcome! I'm glad you're here.  
+This section showcases a collection of my data analysis projects — from SQL queries and Power BI dashboards to Excel automation tools.  
+Each project reflects real-world business problems I've worked on, especially in the area of debt recovery analytics.  
+Feel free to explore, learn, and reach out if something catches your eye!
 
 # Project 1 : Product Manager Performance Dashboard
 
